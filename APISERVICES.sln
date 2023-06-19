@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APISERVICES", "APISERVICES.csproj", "{0945FBA5-DBCF-46EE-AA6C-997C3E933711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontTest", "..\FrontTest\FrontTest.csproj", "{29C442D5-A2EF-414C-A80E-1D4FB9087DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0945FBA5-DBCF-46EE-AA6C-997C3E933711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0945FBA5-DBCF-46EE-AA6C-997C3E933711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0945FBA5-DBCF-46EE-AA6C-997C3E933711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0945FBA5-DBCF-46EE-AA6C-997C3E933711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C442D5-A2EF-414C-A80E-1D4FB9087DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C442D5-A2EF-414C-A80E-1D4FB9087DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C442D5-A2EF-414C-A80E-1D4FB9087DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C442D5-A2EF-414C-A80E-1D4FB9087DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476592A7-EDB5-4D85-8F92-A31B10F94DD1}
+	EndGlobalSection
+EndGlobal
